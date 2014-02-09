@@ -2,6 +2,7 @@
 body {
 	background: url("../img/bg.png");
 	font-family: 'Open Sans', sans-serif;
+	margin-right: 50px;
 }
 
 
@@ -39,6 +40,9 @@ body {
 	font-style: italic;
 }
 
+.bold {
+	font-weight: 700;
+}
 
 /*section*/
 article {
@@ -60,6 +64,7 @@ header {
 
 footer {
 	text-align: center;
+	padding-left: 160px;
 	color: white;
 	font-family: 'open-sans', sans-serif;
 	font-weight: 300;
